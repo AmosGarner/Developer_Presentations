@@ -8,3 +8,5 @@ Repo for holding developer presentations that I've made.
 
 ## Program Dependencies:
 * [MS Power Point](https://products.office.com/en-us/powerpoint)
+* [Google Slides](https://docs.google.com/presentation)
+* Any PDF Viewer
